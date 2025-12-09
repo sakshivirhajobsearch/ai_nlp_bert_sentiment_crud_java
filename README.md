@@ -15,20 +15,20 @@ A fully customized architectural diagram has been generated for this project.
 ---
 
 ## 🧠 Detected Architecture Type
-**None**
+**ml_service**
 
 ---
 
 ## 🛠 Technologies Used
 
 ### **Languages**
-None
+java
 
 ### **Frameworks**
 None
 
 ### **Machine Learning / AI Stack**
-None
+bert
 
 ### **Database Layer**
 None
@@ -62,7 +62,7 @@ All files are saved under the project's **diagram/** directory.
 ---
 
 ## 📦 Source Code Analysis
-- Total scanned files: **0**
+- Total scanned files: **10**
 - Analysis is based on deep source code scanning (not metadata).
 
 ---
