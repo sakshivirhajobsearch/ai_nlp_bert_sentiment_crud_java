@@ -19,7 +19,7 @@ No description provided.
 
 ## 🧠 Tech Stack Used
 
-- **Detected Technologies:** BERT, Java, NLP
+- **Detected Technologies:** Java (Maven/Gradle), PyTorch
 - **GitHub Topics:** None
 
 ---
